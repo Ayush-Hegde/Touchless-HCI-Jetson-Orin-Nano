@@ -154,4 +154,26 @@ RV College of Engineering
 
 This project is developed for academic and educational purposes.
 
+--- 
+
+## Installation and Execution
+
+1. Clone the repository:
+
+git clone https://github.com/Ayush-Hegde/Touchless-HCI-Jetson-Orin-Nano.git
+cd Touchless-HCI-Jetson-Orin-Nano
+
+2. Install required dependencies:
+
+pip3 install -r requirements.txt
+
+3. Run the main application:
+
+python3 main.py
+
+For gesture testing only:
+
+python3 gesture_debug.py
+
+
 
